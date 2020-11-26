@@ -1,0 +1,40 @@
+
+|             Name             |             Command             |
+:------------------------------+---------------------------------:
+| Initiate Project             |  npm init                       |
+:------------------------------+---------------------------------:
+| Initiate with default values |  npm init -y                    |
+:------------------------------+---------------------------------:
+| Save Dev dependency          |  npm install -D                 |
+:------------------------------+---------------------------------:
+| Save dependency              |  npm install -S                 |
+:------------------------------+---------------------------------:
+| Global                       |  npm install -g                 |
+:------------------------------+---------------------------------:
+| List outdated packages       |  npm outdated                   |
+:------------------------------+---------------------------------:
+| Clean install                |  rm -rf node_modules            |
+|                              |  npm install                    |
+|                              |                                 |
+|                              |  Windows: npm i rimraf -g       |
+|                              |           rimraf node_modules   |
+:------------------------------+---------------------------------:
+| Clean extraneous node_modules|  npm prune                      |
+:------------------------------+---------------------------------:
+| Check Version                |  npm show <PackageName> version |
+:------------------------------+---------------------------------:
+| Read me/documentation        |  npm docs                       |
+| of package                   |                                 |
+:------------------------------+---------------------------------:
+| Uninstall package            |  npm uninstall                  |
+:------------------------------+---------------------------------:
+| See dependency tree          |  npm install --dry-run          |
+:------------------------------+---------------------------------:
+| Run security audit(npm > 6)  |  npm audit                      |
+:------------------------------+---------------------------------:
+| Fix security audit(npm > 6.1)|  npm audit fix                  |
+:------------------------------+---------------------------------:
+| Execute Tests                |  npm t or npm run test          |
+:------------------------------+---------------------------------:
+| Lock down the                |                                 |
+| dependency version           |  npm shrinkwrap    
