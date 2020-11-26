@@ -1,0 +1,24 @@
+Din examinationsuppgift ska vara en snygg och avancerad react-klient, som du stolt kan visa upp när du söker jobb som react-programmerare.
+Ditt applikation ska:
+
+- versionshanteras på GitHub
+- innehålla en integration mot minst ett externt API. 
+- ha en genomgående styling.
+- för att få möjlighet till "patchning" fram till den 25 november 2020 För att uppnå betyget godkänd måste du genom din react-applikation visa att du har kunskaper om 
+
+Klass- och funktionskomponenter.
+- Ett komponentdjup på minst tre (förälder med barnbarn)
+- Routing
+- Hooks
+- Context
+- Axios
+- Enhetstestning 
+- Error Boundary
+För att uppnå betyget väl godkänd ska du:
+
+Uppfylla kraven för godkänd.
+Självständigt och med gott handlag ansvara för framtagandet, testandet samt dokumentation av din fristående React-applikation.
+och 
+Skriva en redogörelse på minst 700 ord om ”Hur Angular förhåller sig till React. Likheter och skillnader.” 
+Skriva 700 ord om ett valfritt vanligt förekommande sätt att autentisera en användare i en React-app, ELLER ha en fungerande autentisering av användare i sin applikation.ELLER
+Ha en komponent i din applikation som enkelt kan återanvändas av t.ex en kollega. Komponenten ska publiceras som ett publikt paket på npm, med instruktioner, så att den går att installera med “npm install”. 
