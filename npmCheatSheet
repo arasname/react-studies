@@ -1,6 +1,8 @@
 
 |             Name             |             Command             |
 :------------------------------+---------------------------------:
+| create project               |  npx create-react-app vader     |
+:------------------------------+---------------------------------:
 | Initiate Project             |  npm init                       |
 :------------------------------+---------------------------------:
 | Initiate with default values |  npm init -y                    |
@@ -37,4 +39,4 @@
 | Execute Tests                |  npm t or npm run test          |
 :------------------------------+---------------------------------:
 | Lock down the                |                                 |
-| dependency version           |  npm shrinkwrap    
+| dependency version           |  npm shrinkwrap
